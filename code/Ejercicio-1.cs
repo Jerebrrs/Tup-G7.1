@@ -6,6 +6,7 @@ namespace Guia7
     {
         public Niñas()
         {
+            Console.WriteLine("---------Ejercicio 1 : Mensualidad -----------------");
             int n1, n2, n3, sumaEdades, n4;
             double mensualidad, promedio1, promedio2, promedio3, promedio4;
 
